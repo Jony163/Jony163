@@ -15,7 +15,7 @@
 # 😄 Pronouns :
 I have a deep passion for blockchain technology, and as I’ve witnessed humanity slowly reshaping the subconscious through consciousness to create a better world, which can help in this journey. So I consider building Web3 to be an incredibly meaningful endeavor, and I am committed to contributing to it.
 
-# 🔧 Skills 💪🏻
+# 💪🏻 Skills 
 
 Programming Languages: Solidity, Python, Go, TypeScript
 
@@ -25,6 +25,7 @@ Blockchain: Ethereum, Smart Contracts, Web3.js, ether.js, Viem
 BlockChainLearn: Continuously updating with new technologies and business features, including full development, testing, and deployment code.
 
 <!---
+🔧
 Jony163/Jony163 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> 
