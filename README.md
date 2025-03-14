@@ -1,13 +1,14 @@
 
 # 👋 Hi, I’m Jony
 👀 I’m interested in Backend(Solidity,Python,Golang) and Smart Contract developer dedicated to the Ethereum ecosystem.
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg
 
 # 😄 Pronouns :
 I have a deep passion for blockchain technology, and as I’ve witnessed humanity slowly reshaping the subconscious through consciousness to create a better world, which can help in this journey. So I consider building Web3 to be an incredibly meaningful endeavor, and I am committed to contributing to it.
 
-# 🔧 Technologies & Tools
+# 🔧 Skills ⚡️
+
 Programming Languages: Solidity, Python, Go, TypeScript
+
 Blockchain: Ethereum, Smart Contracts, Web3.js, ether.js, Viem
 
 # 🚀 Current Projects
