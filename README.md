@@ -12,7 +12,7 @@
 # 👋 Hi, I’m Jony  ✨✨
 👀 I’m interested in Backend(Solidity,Python,Golang) and Smart Contract developer dedicated to the Ethereum ecosystem.
 
-# 😄 Pronouns :
+# 😄 Pronouns 
 I have a deep passion for blockchain technology, and as I’ve witnessed humanity slowly reshaping the subconscious through consciousness to create a better world, which can help in this journey. So I consider building Web3 to be an incredibly meaningful endeavor, and I am committed to contributing to it.
 
 # 💪🏻 Skills 
