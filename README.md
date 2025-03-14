@@ -9,7 +9,7 @@
 </p>
 
 
-# 👋 Hi, I’m Jony
+# 👋 Hi, I’m Jony  ✨✨
 👀 I’m interested in Backend(Solidity,Python,Golang) and Smart Contract developer dedicated to the Ethereum ecosystem.
 
 # 😄 Pronouns :
@@ -27,6 +27,7 @@ BlockChainLearn: Continuously updating with new technologies and business featur
 <!---
 Jony163/Jony163 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> 
 --->
 
 <!---
