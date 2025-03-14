@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+</p>
+
 
 # 👋 Hi, I’m Jony
 👀 I’m interested in Backend(Solidity,Python,Golang) and Smart Contract developer dedicated to the Ethereum ecosystem.
@@ -5,7 +14,7 @@
 # 😄 Pronouns :
 I have a deep passion for blockchain technology, and as I’ve witnessed humanity slowly reshaping the subconscious through consciousness to create a better world, which can help in this journey. So I consider building Web3 to be an incredibly meaningful endeavor, and I am committed to contributing to it.
 
-# 🔧 Skills ⚡️
+# 🔧 Skills 💪🏻
 
 Programming Languages: Solidity, Python, Go, TypeScript
 
